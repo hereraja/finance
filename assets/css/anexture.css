@@ -1,0 +1,114 @@
+
+
+body {
+  font-family:Arial;
+  font-size: 14px; line-height: 18px;
+  color: #333;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  line-height: normal; font-weight: 300;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, li, form, input, select, div, textarea {
+  padding: 0;
+  margin: 0
+}
+img {
+  border: none;
+  max-width: 100%;
+  height: auto
+}
+.clear {
+  margin: 0;
+  padding: 0;
+  clear: both
+}
+.after:after {
+  content: "";
+  display: block;
+  clear: both;
+  visibility: hidden
+}
+strong{font-weight: 700;}
+a {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  transition: all 0.3s;
+  transition: all 500ms ease-in-out
+}
+a:hover {
+  text-decoration: none
+}
+img {
+  max-width: 100%
+}
+
+.wrapper_fixed {
+  margin: 25px auto;
+  padding: 0 0 50px 0;
+  max-width: 950px;
+  width: 100%
+}
+
+p{margin-bottom: 14px; line-height: 18px;}
+h2{font-size: 16px; font-weight: 600; text-align: center; margin-bottom: 12px;}
+h3{font-size: 16px; font-weight: 600; text-align: left; margin-bottom: 12px;}
+
+
+.billDateGroop{display: inline-block; width: 100%; margin-bottom: 14px;}
+.crmBill{float: left;}
+.dateTop{float: right;}
+
+.tableBottomBorder{border-bottom:  #ccc solid 1px; width: 100%; margin-top: 25px; margin-bottom: 25px;}
+.tableCus {margin: 0; padding: 0; }
+.tableCus td, .tableCus th{padding: 5px; border: #ccc solid 1px; border-bottom: none; text-align: left; vertical-align: top !important;}
+
+
+.sl_1{width: 5%;}
+.sl_2{width: 18%;}
+.sl_3, .sl_4, .sl_5, .sl_6, .sl_7, .sl_8{width: 11%;}
+
+
+.sl_11{width: 5%;}
+.sl_22{width: 18%;}
+.sl_33, .sl_55{width: 22%;}
+.sl_44, .sl_66{width: 11%;}
+
+
+
+.sl5_1{width: 5%;}
+.sl5_2{width: 18%;}
+.sl5_3, .sl5_4, .sl5_5, .sl5_6, .sl5_7, .sl5_8{width: 11%;}
+
+.sl55_1{width: 5%;}
+.sl55_2{width: 15%;}
+.sl55_3, .sl55_4{width: 35%;}
+.sl55_5{width: 10%;}
+
+.sl4_1{width: 25%;}
+
+
+ul{margin-left: 15px; margin-bottom: 15px;}
+
+ul li{margin-bottom:7px;}
+
+

@@ -1,0 +1,94 @@
+
+
+.headerSecInner{background: #2fbd6b url("../images/cloude.jpg") repeat-x bottom left; min-height: 650px; padding-top: 15px; margin-bottom: 55px; padding-bottom: 175px;}
+
+.headerSecInner .topManuSec{background: #fff; border-radius: 10px; padding: 8px 11px; box-shadow: #1d9650 0px 0px 6px 3px; max-width:1327px; 
+	width: 100%; margin: 0 auto;}
+
+.innerBannerSub{margin-top: 25px;}
+.innerBannerSub h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 72px;
+    color: #fff;
+    text-shadow: 0px 0px 6px #000;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.innerBannerSub p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+
+.innerBannerLeft{padding-top: 90px;}
+.innerBannerRight{text-align: right;}
+
+
+
+
+.innerSec{padding:25px 0 65px 0; width: 100%; display: inline-block;}
+
+.innerSecSub h2{font-family: 'Montserrat', sans-serif; color: #181818; font-size: 40px; font-weight: 700; margin-bottom: 25px;}
+.innerSecSub h2 span{color: #2fbd69;}
+.innerSecSub p{font-size: 16px; color: #6b6b6b; line-height: 28px; margin: 0 0 15px 0; padding: 0;}
+
+
+
+.innerSecSub h3{color: #3f51b5;
+font-size: 22px;
+font-weight: 700;
+padding: 0;
+margin:0 0 14px 0;
+display: inline-block;
+line-height: 25px;
+}
+
+.innerSecSub h4{color: #3f51b5;
+font-size: 18px;
+font-weight: 700;
+padding: 0;
+margin: 0 0 14px 0;
+display: inline-block;
+line-height: 20px;
+}
+
+.innerSecSub h5{color: #3f51b5;
+font-size: 17px;
+font-weight: 700;
+padding: 0;
+margin: 0 0 14px 0;
+display: inline-block;
+line-height: 18px;
+}
+
+.innerSecSub h6{color: #3f51b5;
+font-size: 16px;
+font-weight: 700;
+padding: 0;
+margin:0 0 14px 0;
+display: inline-block;
+line-height: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

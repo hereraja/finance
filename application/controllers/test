@@ -1,0 +1,88 @@
+Array ( [0] => stdClass Object ( [fin_yr] => 3 [trans_dt] => 2022-05-13 [trans_no] => 10 
+[invoice_no] => RNT-2022-23-10 [trans_type] => [prod_id] => 1 [cust_id] => 4 
+[godown_id] => 9 [taxable_amt] => 500.00 [cgst_rt] => 9.00 [cgst_amt] => 45.00 
+[sgst_rt] => 9.00 [sgst_amt] => 45.00 [total_amt] => 590.00 [irn] => [ack_no] => 
+[ack_dt] => 0000-00-00 [colc_brn] => 342 [cr_bnk] => [rf_date] => 0000-00-00 
+[rf_no] => [pay_flag] => N [payment_date] => 
+
+
+[seller_district] => KOLKATA [dcode] => 342 [sellet_pin] => 700107 
+[sellet_addr] => Southend Conclave 3rd Floor,1582 Rajdanga Main Road,kol- 700107 
+
+[buyer_district] => KOLKATA [buyer_dcode] => 342 [buyer_pin] => 700107 
+[buyer_addr] => Southend Conclave 3rd Floor,1582 Rajdanga Main Road,kol- 700107 
+
+[branch_idd] => 342 [dist_sort_code] => KOL [districts_catered] => 342 [ho_flag] => Y 
+[br_manager] => [contact_no] => [addr] => Southend Conclave 3rd Floor,1582 Rajdanga Main Road,kol- 700107 [benfed_dist_code] => 01 
+
+[godownid] => 9 [gdn_name] => kolkata gd [gdn_addr] => kolkata [gdn_dist] => 342 [sac_code] => 123 [cnct_person] => IFFCO [cnct_no] => 
+
+[sl_no] => 1 [product_desc] => Godown Rent 
+
+
+[rent_customerid] => 4 [cust_name] => INDIAN FARMERS FERTILIZER COOPERATIVE LTD. [cust_dist] => 342 
+[cust_addr] => 8 A.J.C. BOSE ROAD, CIRCULAR ROAD (1ST Floor), KOLKATA 700017, WEST BENGAL [email_id] => 
+[pin_code] => 700017 [gst_no] => 19AAAAI0050M1ZS [pan_no] => AAAI0050M [fms_id] => 100006 [dr_bnk] => 3983 ) )
+
+
+'td_rent_collection.fin_yr,
+    td_rent_collection.trans_dt,
+    td_rent_collection.trans_no,
+    td_rent_collection.invoice_no,
+    td_rent_collection.trans_type,
+    td_rent_collection.prod_id,
+    td_rent_collection.cust_id,
+    td_rent_collection.godown_id,
+    td_rent_collection.taxable_amt,
+    td_rent_collection.cgst_rt,
+    td_rent_collection.cgst_amt,
+    td_rent_collection.sgst_rt,
+    td_rent_collection.sgst_amt,
+    td_rent_collection.total_amt,
+    td_rent_collection.irn,
+    td_rent_collection.ack_no,
+    td_rent_collection.ack_dt,
+    td_rent_collection.colc_brn,
+    td_rent_collection.cr_bnk,
+    td_rent_collection.rf_date,
+    td_rent_collection.rf_no,
+    td_rent_collection.pay_flag,
+    td_rent_collection.payment_date,
+
+
+
+
+Array ( [0] => stdClass Object ( [Version] => 1.1 [TaxSch] => GST [SupTyp] => B2B [RegRev] => N 
+[EcmGstin] => [IgstOnIntra] => N [Typ] => INV [No] => INV/EBDN/IFFCO/05/22-23/52_1/1 [Dt] => 2022-05-12 
+[Gstin] => 19AABAT0010H2ZY [LglNm] => The West Bengal State Co-operative Marketing Federation Ltd. 
+[TrdNm] => BENFED [Addr1] => Laxmipurmath, G T Road,PO & PS - Burdwan, Dist - Purba Bardhaman 
+[Addr2] => Laxmipurmath, G T Road,PO & PS - Burdwan, Dist - Purba Bardhaman [Loc] => BARDHAMAN 
+[Pin] => 713101
+ [Stcd] => 19 [Ph] => 9666666666 [Em] => info@benfed.org 
+ 
+[Gstin1] => 19AACAA3400F1ZD 
+[LglNm1] => AUSHGRAM SKUS LTD [TrdNm1] => AUSHGRAM SKUS LTD [Pos] => 19 [Addr1_1] => VILL+PO AUSGRAM,BLOCK- AUSGRAM I PIN NO-713152 
+[Addr2_1] => VILL+PO AUSGRAM,BLOCK- AUSGRAM I PIN NO-713152 [Loc1] => BARDHAMAN [45555666] => 45555666 
+[Pin1] => 713101 [Stcd1] => 19 [Ph1] => [Em1] => [Nm2] => The West Bengal State Co-operative Marketing Federation Ltd. 
+[Addr1_2] => Laxmipurmath, G T Road,PO & PS - Burdwan, Dist - Purba Bardhaman [Addr2_2] => [Loc2] => W.B 
+[Pin2] => 713101 [Stcd2] => 19 [Gstin2] => 19AACAA3400F1ZD [LglNm2] => AUSHGRAM SKUS LTD [TrdNm2] => AUSHGRAM SKUS LTD 
+[Addr1_3] => VILL+PO AUSGRAM,BLOCK- AUSGRAM I PIN NO-713152 [Addr2_3] => VILL+PO AUSGRAM,BLOCK- AUSGRAM I PIN NO-713152 
+[Loc3] => W.B [Pin3] => 713101 [Stcd3] => 19 [SlNo] => 1 [PrdDesc] => DAP [IsServc] => N [HsnCd] => 31053000 
+[Barcde] => [Qty] => 10.000 [FreeQty] => 0 [Unit] => MTS [UnitPrice] => 22457.14 [TotAmt] => 224571.40 
+
+
+[Discount] => 0 [PreTaxVal] => 0 [AssAmt] => 224571.40 [GstRt] => 5.00 [IgstAmt] => 0 [CgstAmt] => 5614.28 
+[SgstAmt] => 5614.28 
+
+[CesRt] => 0 [CesAmt] => 0 [CesNonAdvlAmt] => 0 [StateCesRt] => 0 [StateCesAmt] => 0 
+[StateCesNonAdvlAmt] => 0 [OthChrg] => 0 [TotItemVal] => 235799.96 
+
+[OrdLineRef] => 0 [OrgCntry] => IN 
+[PrdSlNo] => 0 [Nm4] => [ExpDt] => [WrDt] => [Nm5] => [Val] => 0 [AssVal] => 224571.40 [CgstVal] => 5614.28 
+[SgstVal] => 5614.28 [IgstVal] => 0 [CesVal] => 0 [StCesVal] => 0 [RndOffAmt] => 0 [TotInvVal] => 235799.96 
+[TotInvValFc] => 0 [Nm6] => [AccDet] => 0 [Mode] => [FinInsBr] => [PayTerm] => 0 [PayInstr] => [CrTrn] => 
+[DirDr] => [CrDay] => 0 [PaidAmt] => 0 [PaymtDue] => 0 [InvRm] => [InvStDt] => [InvEndDt] => [InvNo] => 
+[InvDt] => [OthRefNo] => [RecAdvRef] => [RecAdvDt] => [TendRefr] => [ContrRefr] => [ExtRefr] => [ProjRefr] => 
+[PORefr] => EWBW18001936 [PORefDt] => 28/04/2020 [Url] => https://einv-apisandbox.nic.in [Docs] => [Info] => 
+[ShipBNo] => [ShipBDt] => [Port] => [RefClm] => [ForCur] => [CntCode] => [TransId] => [TransName] => 
+[Distance] => 0 [TransDocNo] => [TransDocDt] => [VehNo] => [VehType] => [TransMode] => 1 ) )

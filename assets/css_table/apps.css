@@ -1,0 +1,100 @@
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #6f7479;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  line-height: normal; font-weight: 400;
+min-height: 100%;
+display: flex;
+flex-direction: column;
+}
+
+html {
+    height: 100%;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.7.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, ul, ol, li, form, input, select, div, textarea {
+  padding: 0;
+  margin: 0
+}
+img {
+  border: none;
+  max-width: 100%;
+  height: auto
+}
+.clear {
+  margin: 0;
+  padding: 0;
+  clear: both
+}
+.after:after {
+  content: "";
+  display: block;
+  clear: both;
+  visibility: hidden
+}
+a {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  outline: none;
+  transition: all 0.3s;
+  transition: all 500ms ease-in-out
+}
+a:hover {
+  text-decoration: none
+}
+
+button{transition: all 0.3s;
+  transition: all 500ms ease-in-out;}
+img {
+  max-width: 100%
+}
+
+.wrapper_Dash{
+	max-width: 1170px; width: 100%;
+	margin: 0 auto;
+}
+
+
+
+
+
+.contant-wraper{overflow: inherit;}
+.contant-wraper table{border-collapse: inherit; border-spacing: 0; padding: 0;}
+
+.contant-wraper table thead tr th{background: #fff; border: 1px solid #dddddd; position: sticky; top: 0;}
+
+.printHeaderNew{padding-top: 10px; padding-bottom: 10px; display: inline-block; width: 100%;}
+.logoCustom{text-align: left;}
+.logoTextSecRight{text-align: right;}
+.logoTextSecRight h2{font-size: 26px; color: #252525; line-height: 33px;}
+.logoTextSecRight h2 span{font-size: 18px; color: #252525; display: block; font-weight: 400;}
+.logoTextSecRight h3{font-size: 18px; color: #0680cd; line-height: 25px; font-style: italic; padding-top: 7px; text-decoration: underline;}
+
+.nextPrvBtn{padding: 25px 0; text-align: center;}
+
+
+
+
+
